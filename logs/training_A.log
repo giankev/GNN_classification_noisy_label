@@ -1,0 +1,16 @@
+2025-05-31 17:37:24,703 [INFO] Logger created.
+2025-05-31 17:43:26,716 [INFO] [Epoch 10] Train Loss: 0.8239, Train Acc: 0.7645 | Val Loss: 0.7686, Val Acc: 0.7598
+2025-05-31 17:46:00,351 [INFO] [Epoch 20] Train Loss: 0.8158, Train Acc: 0.7640 | Val Loss: 0.7777, Val Acc: 0.7562
+2025-05-31 17:50:37,414 [INFO] [Epoch 10] Train Loss: 0.8276, Train Acc: 0.7610 | Val Loss: 0.7700, Val Acc: 0.7496
+2025-05-31 17:53:18,686 [INFO] [Epoch 20] Train Loss: 0.8156, Train Acc: 0.7650 | Val Loss: 0.7710, Val Acc: 0.7544
+2025-05-31 17:57:23,443 [INFO] [Epoch 10] Train Loss: 0.8318, Train Acc: 0.7600 | Val Loss: 0.7487, Val Acc: 0.7620
+2025-05-31 18:00:06,170 [INFO] [Epoch 20] Train Loss: 0.8236, Train Acc: 0.7634 | Val Loss: 0.7524, Val Acc: 0.7549
+2025-05-31 18:04:06,715 [INFO] [Epoch 10] Train Loss: 0.8294, Train Acc: 0.7611 | Val Loss: 0.7472, Val Acc: 0.7642
+2025-05-31 18:06:59,023 [INFO] [Epoch 20] Train Loss: 0.8166, Train Acc: 0.7642 | Val Loss: 0.7539, Val Acc: 0.7642
+2025-05-31 18:09:51,470 [INFO] [Epoch 30] Train Loss: 0.8283, Train Acc: 0.7627 | Val Loss: 0.7414, Val Acc: 0.7611
+2025-05-31 18:12:44,257 [INFO] [Epoch 40] Train Loss: 0.8213, Train Acc: 0.7636 | Val Loss: 0.7449, Val Acc: 0.7629
+2025-05-31 18:15:36,029 [INFO] [Epoch 50] Train Loss: 0.8214, Train Acc: 0.7630 | Val Loss: 0.7432, Val Acc: 0.7629
+2025-05-31 18:18:58,033 [INFO] [Epoch 10] Train Loss: 0.8240, Train Acc: 0.7629 | Val Loss: 0.7750, Val Acc: 0.7491
+2025-05-31 18:21:42,229 [INFO] [Epoch 20] Train Loss: 0.8121, Train Acc: 0.7661 | Val Loss: 0.7736, Val Acc: 0.7487
+2025-05-31 18:24:26,439 [INFO] [Epoch 30] Train Loss: 0.8195, Train Acc: 0.7648 | Val Loss: 0.7564, Val Acc: 0.7558
+2025-05-31 18:27:10,652 [INFO] [Epoch 40] Train Loss: 0.8153, Train Acc: 0.7671 | Val Loss: 0.7609, Val Acc: 0.7558
