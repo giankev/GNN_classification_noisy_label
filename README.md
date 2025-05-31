@@ -30,6 +30,9 @@ After an accurate analysis the best hyperparameters found are:
 -
 -
 
+### Information
+Python version: 3.11.11
+
 ### Authors:
 - Michael Corelli
 - Kevin Giannandrea

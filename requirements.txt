@@ -1,7 +1,6 @@
-Versione Python: 3.11.11 (main, Dec  4 2024, 08:55:07) [GCC 11.4.0]
-PyTorch: 2.6.0+cu124
-Pandas: 2.2.3
-scikit-learn: 1.2.2
-NumPy: 1.26.4
-PyTorch Geometric: 2.6.1
-tqdm: 4.67.1
+torch==2.2.2
+pandas==2.2.2
+scikit-learn==1.4.2
+numpy==1.26.4
+torch-geometric==2.6.1
+tqdm==4.66.4
