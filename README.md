@@ -3,7 +3,6 @@
 
 ## Description of the solution
 
-### Image teaser explaining the procedure
 During the process was tested different models: gin, gin-virtual, gcn, gcn-virtual and transformer node. Also was utilized three tipes of Cross Entropy: the classic one, the Symmetric and the NoisyCrossEntropy.
 
 ### Overview of the method
@@ -20,6 +19,9 @@ To train the model the main needed the path of the train dataset, after the trai
 
 ### Model used
 To obtain the best performance was utilized the model.pth in model_for_train directory taken from the following github: https://github.com/cminuttim/Learning-with-Noisy-Graph-Labels-Competition-IJCNN_2025/tree/main, we employ on it a finetuning on each dataset using also an Ensemble, defined on the number of cycle decided, for the best model obtained. The best model was selected by the F1 score performance got during the train. 
+
+### Usage
+During the inference time, the predictions are saved in "/kaggle/working/hackaton/predictions/"
 
 ### Information
 Python version: 3.11.11
