@@ -24,6 +24,9 @@ To obtain the best performance was utilized the model.pth in model_for_train dir
 ### Information
 Python version: 3.11.11
 
+### Reference
+- https://github.com/cminuttim/Learning-with-Noisy-Graph-Labels-Competition-IJCNN_2025/tree/main
+
 ### Authors:
 - Michael Corelli
 - Kevin Giannandrea
